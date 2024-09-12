@@ -1,0 +1,12 @@
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\bin\Debug\net8.0\WorkflowLib.deps.json
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\bin\Debug\net8.0\WorkflowLib.dll
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\bin\Debug\net8.0\WorkflowLib.pdb
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\obj\Debug\net8.0\WorkflowLib.csproj.AssemblyReference.cache
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\obj\Debug\net8.0\WorkflowLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\obj\Debug\net8.0\WorkflowLib.AssemblyInfoInputs.cache
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\obj\Debug\net8.0\WorkflowLib.AssemblyInfo.cs
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\obj\Debug\net8.0\WorkflowLib.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\obj\Debug\net8.0\WorkflowLib.dll
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\obj\Debug\net8.0\refint\WorkflowLib.dll
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\obj\Debug\net8.0\WorkflowLib.pdb
+C:\Bootcamp\Padepokan79\Readiness LG\Task5\WorkflowEngine.NET\WorkflowLib\obj\Debug\net8.0\ref\WorkflowLib.dll

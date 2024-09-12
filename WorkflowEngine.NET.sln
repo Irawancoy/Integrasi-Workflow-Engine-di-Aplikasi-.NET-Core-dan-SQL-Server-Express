@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowLib", "WorkflowLib\WorkflowLib.csproj", "{8ABCB339-CC61-419F-B3D3-1EC7BF08A65A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignerApp", "DesignerApp\DesignerApp.csproj", "{B252E947-FA77-48EF-93E9-9117107D5C79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{26352CB8-0B1E-4314-BB13-27C9E6E7E342}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\CreatePersistenceObjects.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\CreatePersistenceObjects.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\DropPersistenceObjects.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\DropPersistenceObjects.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\Fix rename DurationTransition.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\Fix rename DurationTransition.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_11_0_0.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_11_0_0.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_1_3_to_1_4.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_1_3_to_1_4.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_1_4_5_to_1_5.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_1_4_5_to_1_5.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_1_4_to_1_4_3.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_1_4_to_1_4_3.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_1_4_to_1_4_4.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_1_4_to_1_4_4.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_3_1.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_3_1.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_4_0.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_4_0.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_4_0_to_4_1.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_4_0_to_4_1.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_4_1_to_4_2.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_4_1_to_4_2.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_4_2_to_5_0.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_4_2_to_5_0.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_5_0_to_5_1.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_5_0_to_5_1.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_5_1_to_5_2.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_5_1_to_5_2.sql
+		..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_5_2_to_5_2_4.sql = ..\..\..\..\..\Users\irawan\Downloads\WorkflowEngine.NET-12.1.1\WorkflowEngine.NET-12.1.1\Providers\OptimaJet.Workflow.DbPersistence\SQL\update_5_2_to_5_2_4.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ABCB339-CC61-419F-B3D3-1EC7BF08A65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABCB339-CC61-419F-B3D3-1EC7BF08A65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABCB339-CC61-419F-B3D3-1EC7BF08A65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABCB339-CC61-419F-B3D3-1EC7BF08A65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B252E947-FA77-48EF-93E9-9117107D5C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B252E947-FA77-48EF-93E9-9117107D5C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B252E947-FA77-48EF-93E9-9117107D5C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B252E947-FA77-48EF-93E9-9117107D5C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAAF922B-7D19-40D8-94D6-B5338797F0EA}
+	EndGlobalSection
+EndGlobal

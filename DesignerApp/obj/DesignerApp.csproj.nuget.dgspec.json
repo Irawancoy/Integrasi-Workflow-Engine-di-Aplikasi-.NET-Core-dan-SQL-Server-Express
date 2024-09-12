@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\DesignerApp\\DesignerApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\DesignerApp\\DesignerApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\DesignerApp\\DesignerApp.csproj",
+        "projectName": "DesignerApp",
+        "projectPath": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\DesignerApp\\DesignerApp.csproj",
+        "packagesPath": "C:\\Users\\irawan\\.nuget\\packages\\",
+        "outputPath": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\DesignerApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\irawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\WorkflowLib\\WorkflowLib.csproj": {
+                "projectPath": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\WorkflowLib\\WorkflowLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "WorkflowEngine.NETCore-Core": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "WorkflowEngine.NETCore-ProviderForMSSQL": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\WorkflowLib\\WorkflowLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\WorkflowLib\\WorkflowLib.csproj",
+        "projectName": "WorkflowLib",
+        "projectPath": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\WorkflowLib\\WorkflowLib.csproj",
+        "packagesPath": "C:\\Users\\irawan\\.nuget\\packages\\",
+        "outputPath": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task5\\WorkflowEngine.NET\\WorkflowLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\irawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "WorkflowEngine.NETCore-Core": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "WorkflowEngine.NETCore-ProviderForMSSQL": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
